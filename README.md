@@ -1,6 +1,6 @@
 ### 🚀 Sobre mim:
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+**Estudante de Análise e Desenvolvimento de Sistemas.**
 
 📍 João Pessoa, Paraíba  
 
