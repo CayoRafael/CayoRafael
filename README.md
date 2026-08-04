@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-📍 João Pessoa, Paraíba - Brasil 🇧🇷
+📍 João Pessoa, Paraíba - Brasil 
 
 ### 🛠️ Linguagens e Tecnologias
 
