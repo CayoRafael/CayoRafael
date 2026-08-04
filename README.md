@@ -4,9 +4,10 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 📍 João Pessoa, Paraíba - Brasil 
 
+<img src="https://img.shields.io/badge/Brasil-009B3A?style=for-the-badge&logo=geo&logoColor=FEDF00" alt="Brasil" />
+
 ### 🛠️ Linguagens e Tecnologias
 
-<img src="https://img.shields.io/badge/Brasil-009B3A?style=for-the-badge&logo=geo&logoColor=FEDF00" alt="Brasil" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <!--
 **CayoRafael/CayoRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
