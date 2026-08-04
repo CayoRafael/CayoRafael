@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-📍 João Pessoa, Paraíba - Brasil 
+📍 João Pessoa, Paraíba  
 
 <img src="https://img.shields.io/badge/Brasil-009B3A?style=for-the-badge&logo=geo&logoColor=FEDF00" alt="Brasil" />
 
