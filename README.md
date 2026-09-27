@@ -8,4 +8,5 @@
 
 ### 🛠️ Linguagens e Tecnologias
 
-[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow](https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%253Fstyle%253Dfor-the-badge%2526logo%253Dpython%2526logoColor%253Dyellow&utm_source=gemini)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
